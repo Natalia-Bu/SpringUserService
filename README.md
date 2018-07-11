@@ -1,6 +1,6 @@
 # SpringUserService
 BostonGene test project
-
+*** 
 Сборка и запуск:
 1. mvn clean install
 2. java -jar <файл из target>
